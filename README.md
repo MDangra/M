@@ -35,8 +35,8 @@ margin-top:20px;
 
 <div class="col-8  bg-success">
 <div class="jumbotron main-text">
-  <h1>Bootstrap Tutorial</h1>
-  <p>Bootstrap is the most popular HTML, CSS...</p>
+  <h1>CHICKEN</h1>
+  <p>Chicken is the most common type of poultry in the world. Owing to the relative ease and low cost of raising chickens—in comparison to mammals such as cattle</p>
 </div>
 </div>
 
@@ -50,10 +50,18 @@ margin-top:20px;
 </div>
 <div class="col bg-info">
 <div class="jumbotron main-text">
-  <h1>Bootstrap Tutorial</h1>
-  <p>Bootstrap is the most popular HTML, CSS...</p>
+  <h1>BEEF</h1>
+  <p>Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times.</p>
 </div>
 </div>
+  
+ <div class="col bg-info">
+<div class="jumbotron main-text">
+  <h1>SHUSHI</h1>
+  <p>Shusha or Shushi is a city in Nagorno-Karabakh and the centre of Azerbaijan's Shusha District. Situated at an altitude of 1,400–1,800 metres in the Karabakh mountains, the city was a mountain recreation resort in the Soviet era</p>
+</div>
+</div>
+  
 </div>
 
 </div>
